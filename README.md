@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Javascript Front-End and Back-End Web and Mobile projects
 - ✨ I also want to learn Solidity to design Dapps on Ethereum Blockchain 
 - 📫 How to reach me : 
---Twitter @lechefalban
--- Instagram @lechefalban
+- -Twitter @lechefalban
+- - Instagram @lechefalban
 - - Malt : https://www.malt.fr/profile/albanrenier 
 - 
 
