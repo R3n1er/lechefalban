@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Alban
-- 👀 I’m interested in Web developpemennt, DevOps, Cryptocurrency and Technical Analysis
-- 🌱 I’m currently learning Fullstack Web developpement with Javascript and React at @Lacapsule Coding Bootcamp
+- 👀 I’m interested in Web developpemennt, DevOps & IT Networks. I am also passioned about Finance, Cryptocurrency and Technical Analysis
+- 🌱 I’m currently learning Fullstack Web developpement with Javascript and React at @LacapsuleParis Coding Bootcamp
 - 💞️ I’m looking to collaborate on Javascript Front-End and Back-End Web and Mobile projects
-- ✨ I also want to learn Solidity for Ethereum Blockchain developpement
+- ✨ I also want to learn Solidity to design Dapps on Ethereum Blockchain 
 - 📫 How to reach me : 
-- - Twitter @lechefalban
+--Twitter @lechefalban
 -- Instagram @lechefalban
-- - Malt
+- - Malt : https://www.malt.fr/profile/albanrenier 
 - 
 
 <!---
