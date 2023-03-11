@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on Front-End Project With ReactJS, VueJS for company working in Finance, Crypto, Healthcare or e-commerce. 
 - ✨ I also want to learn Solidity languade to design Dapps on Ethereum Blockchain or other chains
 - 📫 How to reach me : 
-- -Twitter @lechefalban
-- - Instagram @lechefalban
+- -Twitter @AlbanWorkInTech
+- - Instagram @AlbanWorkInTech
 - - Malt : https://www.malt.fr/profile/albanrenier 
+- - Linkedin : https://www.linkedin.com/in/alban-renier/ 
 - 
 
 <!---
